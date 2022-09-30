@@ -16,7 +16,7 @@ public class ChuanHoaVaSapXep {
             String temp = str.nextToken();
             result.append(temp.substring(0,1).toUpperCase() + temp.substring(1) + " ");
         }
-        return result.toString();
+        return result.toString().trim();
     }
 
     public String getLastName() {

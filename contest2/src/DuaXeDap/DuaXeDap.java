@@ -28,7 +28,7 @@ public class DuaXeDap {
         while(str.hasMoreTokens()){
             result.append(str.nextToken().substring(0,1));
         }
-        return result.toString();
+        return result.toString().trim();
     }
 
     private String xuLyVanToc()
