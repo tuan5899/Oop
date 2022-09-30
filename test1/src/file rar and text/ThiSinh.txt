@@ -1,0 +1,37 @@
+7
+KV2A002
+Hoang THAnh tuan
+5
+6
+5
+KV3B099
+ LY Thi   THU ha
+8
+6.5
+7
+KV3B055
+Nguyen Hoang Hoa
+8
+6.5
+7
+KV1B130
+Ly Chieu Hoa
+8
+6.5
+7
+KV3B123
+ Nguyen Manh Tuan
+8
+7
+9
+KV3B055
+Hoang Thu Huong
+3
+5
+7
+KV3B100
+Tran Van Luc
+2
+6
+7
+2
