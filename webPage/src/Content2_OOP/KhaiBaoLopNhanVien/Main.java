@@ -1,4 +1,4 @@
-package Content2_OOP.NhanVien;
+package Content2_OOP.KhaiBaoLopNhanVien;
 
 import java.text.ParseException;
 import java.util.Scanner;

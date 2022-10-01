@@ -1,4 +1,4 @@
-package Content2_OOP.SinhVien;
+package Content2_OOP.KhaiBaoLopThiSinh;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
