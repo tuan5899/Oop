@@ -1,4 +1,4 @@
-package SoNguyenToTrongFileNhiPhan;
+package Content2_OOP.SoNguyenToTrongFileNhiPhan;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

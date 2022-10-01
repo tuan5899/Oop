@@ -1,4 +1,4 @@
-package DanhSachMatHang;
+package Content2_OOP.DanhSachMatHang;
 
 import java.text.ParseException;
 import java.util.*;

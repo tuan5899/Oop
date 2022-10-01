@@ -1,4 +1,4 @@
-package TinhDiemTrungBinh;
+package Content2_OOP.TinhDiemTrungBinh;
 
 import java.io.File;
 import java.io.FileNotFoundException;

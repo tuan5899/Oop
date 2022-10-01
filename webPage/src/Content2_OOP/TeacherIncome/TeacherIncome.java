@@ -1,4 +1,4 @@
-package TeacherIncome;
+package Content2_OOP.TeacherIncome;
 
 import java.util.StringTokenizer;
 

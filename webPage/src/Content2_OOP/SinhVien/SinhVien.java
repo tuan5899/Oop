@@ -1,4 +1,4 @@
-package SinhVien;
+package Content2_OOP.SinhVien;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package LoaiBoSoNguyen;
+package Content2_OOP.LoaiBoSoNguyen;
 
 import java.io.File;
 import java.io.FileNotFoundException;

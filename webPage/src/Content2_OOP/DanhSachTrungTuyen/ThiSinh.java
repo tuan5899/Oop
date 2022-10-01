@@ -1,4 +1,4 @@
-package DanhSachTrungTuyen;
+package Content2_OOP.DanhSachTrungTuyen;
 
 import java.util.StringTokenizer;
 

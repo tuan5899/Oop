@@ -1,4 +1,4 @@
-package DanhSachSinhVien;
+package Content2_OOP.DanhSachSinhVien;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package SoKhacNhauTrongFile;
+package Content2_OOP.SoKhacNhauTrongFile;
 
 import java.io.File;
 import java.io.FileNotFoundException;

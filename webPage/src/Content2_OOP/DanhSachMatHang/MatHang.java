@@ -1,4 +1,4 @@
-package DanhSachMatHang;
+package Content2_OOP.DanhSachMatHang;
 
 public class MatHang {
     private String maMatHang,tenMatHang,thongTin;

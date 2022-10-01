@@ -1,4 +1,4 @@
-package DanhSachCaThi;
+package Content2_OOP.DanhSachCaThi;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

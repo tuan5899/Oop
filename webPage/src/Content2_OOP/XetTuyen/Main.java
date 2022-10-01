@@ -1,4 +1,4 @@
-package XetTuyen;
+package Content2_OOP.XetTuyen;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.text.ParseException;

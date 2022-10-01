@@ -1,4 +1,4 @@
-package DiemTuyenSinh;
+package Content2_OOP.DiemTuyenSinh;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

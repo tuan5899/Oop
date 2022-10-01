@@ -1,5 +1,4 @@
-package DanhSachMonThi;
-
+package Content2_OOP.DanhSachMonThi;
 public class DanhSachMonThi {
     private String maMon, tenMon, hinhThucThi;
 

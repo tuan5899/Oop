@@ -1,4 +1,4 @@
-package DanhSachSinhVien;
+package Content2_OOP.DanhSachSinhVien;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

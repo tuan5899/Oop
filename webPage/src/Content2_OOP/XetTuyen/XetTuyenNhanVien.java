@@ -1,4 +1,4 @@
-package XetTuyen;
+package Content2_OOP.XetTuyen;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

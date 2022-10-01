@@ -1,4 +1,4 @@
-package NhanVien;
+package Content2_OOP.NhanVien;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

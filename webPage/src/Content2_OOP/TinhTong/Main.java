@@ -1,4 +1,4 @@
-package TinhTong;
+package Content2_OOP.TinhTong;
 
 import java.io.File;
 import java.io.FileNotFoundException;

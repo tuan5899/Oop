@@ -1,4 +1,4 @@
-package DiemTuyenSinh;
+package Content2_OOP.DiemTuyenSinh;
 
 import java.util.StringTokenizer;
 
