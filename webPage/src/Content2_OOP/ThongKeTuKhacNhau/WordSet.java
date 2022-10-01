@@ -7,11 +7,16 @@ import java.util.StringTokenizer;
 import java.util.TreeSet;
 
 public class WordSet {
-    private TreeSet<String> str = new TreeSet<String>();
+
+    private TreeSet<String>str = new TreeSet<>();
     public WordSet(Scanner in){
         while(in.hasNextLine()){
-            System.out.println(in.hasNextLine());
-            in.nextLine();
+            String s = in.nextLine();
+            if(s.length() == 0) break;
+            StringTokenizer temp = new StringTokenizer(s, " ");
+            while(temp.hasMoreTokens()){
+                str.add(temp.nextToken().toLowerCase().trim());
+            }
         }
     }
 
@@ -19,6 +24,6 @@ public class WordSet {
     public String toString() {
         StringBuilder temp = new StringBuilder("");
         str.forEach(item -> temp.append("\n" + item));
-        return str.toString();
+        return temp.toString();
     }
 }
