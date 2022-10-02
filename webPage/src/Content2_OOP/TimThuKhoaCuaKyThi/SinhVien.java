@@ -47,13 +47,6 @@ public class SinhVien {
 
     @Override
     public String toString() {
-        String result = maSV + " " +  Hoten +" " +new SimpleDateFormat("dd/MM/yyyy").format(ngaysinh) + " ";
-        if(tongDiem % 1 != 0){
-            result += String.valueOf(tongDiem);
-        }
-        else{
-            result += String.valueOf((int)tongDiem);
-        }
-        return result;
+        return maSV + " " +  Hoten +" " + ngaysinh + " " + tongDiem;
     }
 }
